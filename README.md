@@ -1,12 +1,18 @@
-# React + Vite
+# 🛌 SleepCycle Wake Up Time App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🔎 Overview  
+A simple and interactive **SleepCycle Wake Up Time** app built with **React** and **CSS**.  
+This project helps users determine the best wake-up times based on 90-minute sleep cycles.  
+It updates every second and suggests multiple optimal wake-up times if the user goes to sleep now.
 
-Currently, two official plugins are available:
+## 🛠 Technologies Used  
+- React.js + Vite (Class Component)  
+- CSS3  
+- JavaScript (Date API)  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Screenshot  
+[![Screenshot-2025-07-09-at-12-14-44.png](https://i.postimg.cc/3wXVbRR6/Screenshot-2025-07-09-at-12-14-44.png)](https://postimg.cc/5HtsXf8q)
 
-## Expanding the ESLint configuration
+## 🌐 Live Demo  
+👉 <a href="https://sleepsycle.netlify.app" target="_blank">View Live</a>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
